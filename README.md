@@ -4,3 +4,5 @@ Portfólio do curso de Desenvolvimento de Sistemas, turma 2B
 ### A atividade foi escolhida poir me ajudou a entender o funcionamento do programa
 https://github.com/s0phia0409/Portfolio/blob/main/Fundamentos%20de%20Desing/Untitled%20(1).pdf
 ### Escolhi a atividade pois me ajudou a compreender a matéria
+https://github.com/s0phia0409/Portfolio/blob/main/L%C3%B3gica%20Computacional/Atividade%20de%20Fixa%C3%A7%C3%A3o.java
+### A atividade foi importante para a compreenção do programa 
