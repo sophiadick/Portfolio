@@ -1,4 +1,4 @@
-#Atividade feita em sala para  compreensão da matéria
+
 
 import java.util.Scanner;
 public class Main
