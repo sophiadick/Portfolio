@@ -6,3 +6,4 @@ https://github.com/s0phia0409/Portfolio/blob/main/Fundamentos%20de%20Desing/Unti
 ### Escolhi a atividade pois me ajudou a compreender a matéria
 https://github.com/s0phia0409/Portfolio/blob/main/L%C3%B3gica%20Computacional/Atividade%20de%20Fixa%C3%A7%C3%A3o.java
 ### A atividade foi importante para a compreenção do programa 
+https://github.com/s0phia0409/Portfolio/blob/main/L%C3%B3gica%20Computacional/Atividade%20de%20Fixa%C3%A7%C3%A3o%20de%20N%C3%BAmeros%20primos.java
